@@ -24,9 +24,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           repository: Southern-Frogs/coming-soon
-          token: ${{secrets.PAT_REPOS}}
+          token: ${{secrets.PULL_FROM_COMING_SOON}}
         env: 
-          PAT_REPOS: ${{secrets.PULL_FROM_COMING_SOON}}
+          PULL_FROM_COMING_SOON: ${{secrets.PULL_FROM_COMING_SOON}}
 
       - name: npm install
         run: npm install
