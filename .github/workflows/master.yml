@@ -20,7 +20,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
 
-      - name: Checkout coming soon repo
+      - name: Checkout coming-soon repo
         uses: actions/checkout@v3
         with:
           repository: Southern-Frogs/coming-soon
@@ -29,14 +29,17 @@ jobs:
         env: 
           PULL_FROM_COMING_SOON: ${{secrets.PULL_FROM_COMING_SOON}}
 
-      - name: npm install
-        run: npm install
+      - run: npm install
+      
+      - name: build
+        run: npm run build
+        env:
+          PUBLIC_URL: "/bonpelloweb"
+
         
       - name: Deploy with gh-pages
         run: |
-          npm run build
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLIC_URL: "/bonpelloweb"
