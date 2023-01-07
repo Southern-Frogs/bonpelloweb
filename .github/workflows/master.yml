@@ -25,6 +25,7 @@ jobs:
         with:
           repository: Southern-Frogs/coming-soon
           token: ${{secrets.PULL_FROM_COMING_SOON}}
+          ref: ${{inputs.branch}}
         env: 
           PULL_FROM_COMING_SOON: ${{secrets.PULL_FROM_COMING_SOON}}
 
@@ -33,8 +34,8 @@ jobs:
         
       - name: Deploy with gh-pages
         run: |
-          git config --unset-all http.https://github.com/.extraheader
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          #git config --unset-all http.https://github.com/.extraheader
+          git remote set-url origin https://git:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git
           npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
