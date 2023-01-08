@@ -33,8 +33,6 @@ jobs:
       
       - name: build
         run: npm run build
-        env:
-          PUBLIC_URL: "/bonpelloweb"
 
         
       - name: Deploy with gh-pages
