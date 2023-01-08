@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bonpelloweb/static/css/main.ad8501bc.css",
-    "main.js": "/bonpelloweb/static/js/main.12d05256.js",
-    "static/media/coolvetica.rg-regular.otf": "/bonpelloweb/static/media/coolvetica.rg-regular.3d81d0e1fdbd5f69b232.otf",
-    "static/media/instagram.svg": "/bonpelloweb/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
-    "index.html": "/bonpelloweb/index.html",
-    "static/media/facebook.svg": "/bonpelloweb/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
-    "main.ad8501bc.css.map": "/bonpelloweb/static/css/main.ad8501bc.css.map",
-    "main.12d05256.js.map": "/bonpelloweb/static/js/main.12d05256.js.map"
+    "main.css": "/static/css/main.394877b4.css",
+    "main.js": "/static/js/main.7f5fd7e9.js",
+    "static/media/coolvetica.rg-regular.otf": "/static/media/coolvetica.rg-regular.3d81d0e1fdbd5f69b232.otf",
+    "static/media/instagram.svg": "/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
+    "index.html": "/index.html",
+    "static/media/facebook.svg": "/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
+    "main.394877b4.css.map": "/static/css/main.394877b4.css.map",
+    "main.7f5fd7e9.js.map": "/static/js/main.7f5fd7e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad8501bc.css",
-    "static/js/main.12d05256.js"
+    "static/css/main.394877b4.css",
+    "static/js/main.7f5fd7e9.js"
   ]
 }
