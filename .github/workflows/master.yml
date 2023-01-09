@@ -33,6 +33,8 @@ jobs:
       
       - name: build
         run: npm run build
+        env:
+          REACT_APP_VERSION: ${{github.sha}}
 
         
       - name: Deploy with gh-pages
