@@ -77,5 +77,8 @@
   "signup-step": "Paso",
   "signup-thanks1": "¡Gracias por sumarte!",
   "signup-thanks2": "Te avisaremos cuando Bönpello esté disponible para que lo uses.",
-  "questionnaire.save.error": "🐸 Ups.. Que vergüenza! Algo salió mal. Mientras lo arreglamos.. ¿Por qué no te tomás un descanzo y lo intentás de nuevo en un rato? O.. también podés volver a intentarlo ahora."
+  "questionnaire.save.error": "🐸 Ups.. Que vergüenza! Algo salió mal. Mientras lo arreglamos.. ¿Por qué no te tomás un descanzo y lo intentás de nuevo en un rato? O.. también podés volver a intentarlo ahora.",
+  "consent-content": "Usamos cookies para hacer de este sitio web una experiencia única. Hacé clic en \"¡Dale, acepto!\" para continuar o en \"Nah, paso\" para salir.",
+  "consent-accept": "¡Dale, acepto!",
+  "consent-decline": "Nah, paso"
 }
