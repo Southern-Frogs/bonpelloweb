@@ -37,6 +37,7 @@ jobs:
           VITE_APP_VERSION: ${{github.sha}}
           VITE_SUPABASE_URL: ${{secrets.SUPABASE_URL}}
           VITE_PUBLIC_ANON_KEY: ${{secrets.SUPABASE_PUBLIC_ANON_KEY}}
+          VITE_GOOGLE_ANALYTICS_ID: ${{secrets.GOOGLE_ANALYTICS_ID}}
 
         
       - name: Deploy with gh-pages
