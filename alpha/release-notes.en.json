@@ -1,5 +1,10 @@
 [
     {
+        "title": "Version 1.0.0+24",
+        "text": "The unwanted gray border on the home has been eliminated.",
+        "date": "May 31, 2023"
+    },
+    {
         "title": "Version 1.0.0+23",
         "text": "Initial Version",
         "date": "May 29, 2023"

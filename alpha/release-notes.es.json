@@ -1,5 +1,10 @@
 [
     {
+        "title": "Version 1.0.0+24",
+        "text": "Se ha eliminado el borde gris no deseado en la pantalla de inicio.",
+        "date": "31 de mayo de 2023"
+    },
+    {
         "title": "Versión 1.0.0+23",
         "text": "Versión Inicial",
         "date": "29 de mayo de 2023"
