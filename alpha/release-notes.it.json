@@ -1,5 +1,13 @@
 [
     {
+        "title": "Version 1.0.0+25",
+        "items": [
+            "Miglioramento del comportamento dello scroll sulla schermata iniziale.",
+            "Ingredienti aggiunti"
+        ],
+        "date": "01 di giugno di 2023"
+    },
+    {
         "title": "Version 1.0.0+24",
         "text": "Il bordo grigio indesiderato presente nella schermata iniziale è stato eliminato.",
         "date": "31 di maggio di 2023"

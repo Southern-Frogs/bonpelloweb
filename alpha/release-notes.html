@@ -73,7 +73,11 @@ document.addEventListener('alpine:init', () => {
                                 <p class="font-thin text-gray-900" x-text="note.date"></p>
                             </div>
                         </div>
-                        <span class="mt-1 text-xs" x-text="note.text" ></span>
+                        <ul class="list-disc ml-5">
+                            <template x-for="item in note.items">
+                                <li class="mt-1 text-xs" x-text="item"></li>
+                            </template>
+                        </ul>
                     </div>
                 </template>
             </div>
