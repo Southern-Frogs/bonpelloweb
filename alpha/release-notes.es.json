@@ -1,9 +1,16 @@
 [
     {
+        "title": "Version 1.0.0+26",
+        "items": [
+            "Mejoras en el manejo del scroll en la página inicial."
+        ],
+        "date": "02 de junio de 2023"
+    },
+    {
         "title": "Version 1.0.0+25",
         "items": [
-            "Mejoras en el manejo del scroll en la página inicial",
-            "Ingredientes agregados"
+            "Mejoras en el manejo del scroll en la página inicial.",
+            "Ingredientes agregados."
         ],
         "date": "01 de junio de 2023"
     },
@@ -14,7 +21,7 @@
     },
     {
         "title": "Versión 1.0.0+23",
-        "items": [ "Versión Inicial" ],
+        "items": [ "Versión Inicial." ],
         "date": "29 de mayo de 2023"
     }
 ]

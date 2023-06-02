@@ -1,9 +1,15 @@
-[
+[{
+    "title": "Version 1.0.0+26",
+    "items": [
+        "Enhanced scroll behavior on the home screen."
+    ],
+    "date": "June 02, 2023"
+    },
     {
         "title": "Version 1.0.0+25",
         "items": [
-            "Improvement on behavior of the scroll on the home.",
-            "Ingredients added"
+            "Enhanced scroll behavior on the home screen.",
+            "Ingredients added."
         ],
         "date": "June 01, 2023"
     },
@@ -17,7 +23,7 @@
     {
         "title": "Version 1.0.0+23",
         "items": [
-            "Initial Version"
+            "Initial Version."
         ],
         "date": "May 29, 2023"
     }

@@ -1,9 +1,16 @@
 [
     {
+        "title": "Version 1.0.0+26",
+        "items": [
+            "Miglioramento del comportamento dello scroll sulla schermata iniziale."
+        ],
+        "date": "02 di giugno di 2023"
+    },
+    {
         "title": "Version 1.0.0+25",
         "items": [
             "Miglioramento del comportamento dello scroll sulla schermata iniziale.",
-            "Ingredienti aggiunti"
+            "Ingredienti aggiunti."
         ],
         "date": "01 di giugno di 2023"
     },
@@ -14,7 +21,7 @@
     },
     {
         "title": "Versione 1.0.0+23",
-        "items": [ "Prima versione"],
+        "items": [ "Prima versione."],
         "date": "29 di maggio di 2023"
     }
 ]
