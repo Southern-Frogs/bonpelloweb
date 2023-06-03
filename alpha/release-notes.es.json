@@ -1,5 +1,13 @@
 [
     {
+        "title": "Version 1.0.0+27",
+        "items": [
+            "Mejoras en la UI.",
+            "Ingredientes agregados."
+        ],
+        "date": "03 de junio, 2023"
+    },
+    {
         "title": "Version 1.0.0+26",
         "items": [
             "Mejoras en el manejo del scroll en la página inicial."

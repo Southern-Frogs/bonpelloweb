@@ -1,4 +1,13 @@
-[{
+[
+    {
+    "title": "Version 1.0.0+27",
+    "items": [
+        "UI enhancements.",
+        "Ingredients added."
+    ],
+    "date": "June 03, 2023"
+    },
+    {
     "title": "Version 1.0.0+26",
     "items": [
         "Enhanced scroll behavior on the home screen."
