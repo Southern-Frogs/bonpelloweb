@@ -1,5 +1,16 @@
 [
     {
+        "title": "Version 1.0.0+28",
+        "items": [
+            "Ingredientes agregados.",
+            "Tilde verde en los íconos de categoría de ingredientes aptos de veredicto.",
+            "Nueva pantalla de configuración.",
+            "Permitir elegir idioma entre español e inglés.",
+            "Ingredientes remotos para recibir actualizaciones sin descargar una nueva versión de la aplicación."
+        ],
+        "date": "07 de junio, 2023"
+    },
+    {
         "title": "Version 1.0.0+27",
         "items": [
             "Mejoras en la UI.",

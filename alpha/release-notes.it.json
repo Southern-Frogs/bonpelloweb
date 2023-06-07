@@ -1,5 +1,16 @@
 [
     {
+        "title": "Versione 1.0.0+28",
+        "items": [
+            "Ingredienti aggiunti.",
+            "Tilde verde negli iconi di categoria degli ingredienti approvati dal verdetto.",
+            "Nuova schermata di configurazione.",
+            "Permettere la selezione della lingua tra spagnolo e inglese.",
+            "Ingredienti remoti per ottenere aggiornamenti senza scaricare una nuova versione dell'app."
+        ],
+        "date": "07 di giugno di 2023"
+    },
+    {
         "title": "Versione 1.0.0+27",
         "items": [
             "Miglioramenti dell'interfaccia utente",

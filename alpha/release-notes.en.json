@@ -1,5 +1,16 @@
 [
     {
+        "title": "Version 1.0.0+28",
+        "items": [
+            "Ingredients added.",
+            "Green checkmark on \"good\" verdict icons.",
+            "New Settings screen.",
+            "Allow language selection between Spanish and English.",
+            "Remote ingredients to get updates without downloading new a app version."
+        ],
+        "date": "June 07, 2023"
+    },
+    {
     "title": "Version 1.0.0+27",
     "items": [
         "UI enhancements.",
