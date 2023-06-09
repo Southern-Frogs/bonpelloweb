@@ -1,5 +1,14 @@
 [
     {
+        "title": "Versione 1.0.0+29",
+        "items": [
+            "Ingredienti aggiunti.",
+            "Combinazione di schermata di input di testo e schermata di individuazione degli errori.",
+            "Ottimizzare il tempo di scansione."
+        ],
+        "date": "09 di giugno di 2023"
+    },
+    {
         "title": "Versione 1.0.0+28",
         "items": [
             "Ingredienti aggiunti.",

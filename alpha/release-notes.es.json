@@ -1,5 +1,14 @@
 [
     {
+        "title": "Version 1.0.0+29",
+        "items": [
+            "Ingredientes agregados.",
+            "Combinación de pantalla de ingreso de texto y de búsqueda de errores.",
+            "Mejoras en el tiempo de escaneo."
+        ],
+        "date": "09 de junio, 2023"
+    },
+    {
         "title": "Version 1.0.0+28",
         "items": [
             "Ingredientes agregados.",

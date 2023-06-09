@@ -1,5 +1,14 @@
 [
     {
+        "title": "Version 1.0.0+29",
+        "items": [
+            "Ingredients added.",
+            "Combination of text input screen and error finder screen.",
+            "Optimize Scanning Time."
+        ],
+        "date": "June 09, 2023"
+    },
+    {
         "title": "Version 1.0.0+28",
         "items": [
             "Ingredients added.",

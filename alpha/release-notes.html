@@ -20,7 +20,7 @@ document.addEventListener('alpine:init', () => {
 })
 </script>
 
-<div x-data class="min-w-screen h-screen animated fadeIn faster flex justify-center items-center bg-blue-50">
+<div x-data class="min-w-screen animated fadeIn faster flex justify-center items-center bg-blue-50">
     <nav class=" py-3 h-auto fixed w-full z-20 top-0 bg-white shadow-sm">
 
         <div class="container mx-auto">
@@ -63,7 +63,7 @@ document.addEventListener('alpine:init', () => {
     </nav>
     <div class="container z-10" >
 
-        <div  class="grid mt-8  gap-8 grid-cols-1">
+        <div  class="grid mt-14 mb-8 gap-8 grid-cols-1">
             <div class="flex flex-col">
                 <template x-for="note in $store.lang.versions">
                     <div class="bg-white shadow-md  rounded-3xl p-5 mt-5">
