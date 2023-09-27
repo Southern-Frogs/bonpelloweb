@@ -72,8 +72,10 @@
   "signup-step": "Paso",
   "signup-thanks1": "¡Gracias por suscribirte!",
   "signup-thanks2": "Te avisaremos cuando Bönpello esté listo para usar.",
-  "questionnaire.save.error": "🐸 Ostras.. Que vergüenza! Algo salió mal. Mientras lo arreglamos.. ¿Por qué no tomas un descanzo y lo intentas de nuevo en un rato? O.. también puedes volver a intentarlo ahora.",
+  "questionnaire.save.error": "🐸 Ostras.. Que vergüenza! Algo salió mal. Mientras lo arreglamos.. ¿Por qué no tomas un descanso y lo intentas de nuevo en un rato? O.. también puedes volver a intentarlo ahora.",
   "consent-content": "Usamos cookies para hacer de este sitio web una experiencia única. Si quieres aceptarlas, haz clic en \"¡Me apunto!\" o en \"No, gracias\" si prefieres no participar.",
   "consent-accept": "¡Me apunto!",
-  "consent-decline": "No, gracias"
+  "consent-decline": "No, gracias",
+  "terms-and-conditions": "Términos y condiciones",
+  "privacy-policy": "Política de privacidad"
 }

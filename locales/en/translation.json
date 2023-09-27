@@ -78,5 +78,7 @@
   "questionnaire.save.error": "🐸 Well, this is embarrassing. While we fix it, why not take a break and come back to us later? Or, if you're feeling brave, you can try your luck again now.",
   "consent-content": "We use cookies to make this website super awesome. Click \"I'm in!\" to agree or \"No, thanks\" to opt-out.",
   "consent-accept": "I'm in!",
-  "consent-decline": "No, thanks"
+  "consent-decline": "No, thanks",
+  "terms-and-conditions": "Terms and Conditions",
+  "privacy-policy": "Privacy Policy"
 }
