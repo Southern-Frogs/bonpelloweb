@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Versión 1.1.1",
+        "items": [
+            "Identificar productos para limpieza profunda.",
+            "Incorporación de modos Low-poo y Co-wash (desarrollo parcial) con veredicto de limpieza profunda.",
+            "Nuevos sulfatos identificados."
+        ],
+        "date": "18 de octubre de 2023"
+    },
+    {
+        "title": "Versión 1.1.0",
+        "items": [
+            "Suscripciones.",
+            "Búsqueda de proteínas.",
+            "Función Producto del día."
+        ],
+        "date": "03 de octubre de 2023"
+    }
+]

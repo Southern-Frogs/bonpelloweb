@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Version 1.1.1",
+        "items": [
+            "Identify products for deep cleaning.",
+            "Incorporate Low-poo and Co-wash modes (partial development) with deep cleaning verdict.",
+            "New sulfates identified."
+        ],
+        "date": "October 18, 2023"
+    },
+    {
+        "title": "Version 1.1.0",
+        "items": [
+            "Subscriptions added.",
+            "Protein search.",
+            "Product of the day feature."
+        ],
+        "date": "October 03, 2023"
+    }
+]
